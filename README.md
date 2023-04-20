@@ -1,25 +1,8 @@
-# STARTER-jpa02
+# jpa02-b4k3s
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
-  this TODO item.
+Repo: https://github.com/ucsb-cs156-s23/jpa02-b4k3s
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s23/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-s23/STARTER-jpa02
-
-* TODO: Correct the "deployed at" link to app on Heroku or Render below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
-
-
-Deployed at: https://jpa02-cgaucho.herokuapp.com
-
+Deployed at: https://jpa02-christianbaker.herokuapp.com/
 
 # About this repo
 
@@ -37,7 +20,6 @@ This is a minimal "Hello World" type webapp built with Spring Boot.
 | `mvn spring-boot:run` | Runs the code to startup a web server.  Access it via `http://localhost:8080` on the *same machine* where the server is running.  Use CTRL/C to stop it. |
 | `java -cp target/hello-1.0.0.jar edu.ucsb.cs156.spring.hello.Application` | If done after `mvn package`, runs the code to startup a web server.  |
 | `java -jar target/hello-1.0.0.jar | If done after `mvn package`, this is another way to start up the web server.|
-
 
 # Sources
 
@@ -74,5 +56,3 @@ below.
     the test cases, compute jacoco report,
     upload code coverage reports to Codecov.io,
     and produce pitest artifacts.
-
-
