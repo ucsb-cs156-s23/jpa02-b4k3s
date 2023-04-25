@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-b4k3s
 
-Deployed at: https://jpa02-christianbaker.herokuapp.com/
+Deployed at: http://jpa02-christianbaker.dokku-09.cs.ucsb.edu/
 
 # About this repo
 
